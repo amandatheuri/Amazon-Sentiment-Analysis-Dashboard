@@ -1,1 +1,2 @@
 # Amazon-Sentiment-Analysis-Dashboard
+Analysis of 5,000 product reviews reveals exceptional brand loyalty, with 93.7% of reviews skewing positive. While smart-home devices (Echo Show/Plus) drive the highest volume of customer engagement, niche products like the Fire HD 10 Tablet achieve the highest relative satisfaction despite lower sales volume, representing a key area for targeted marketing expansion.
